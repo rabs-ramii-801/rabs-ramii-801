@@ -19,7 +19,7 @@ I'm a versatile Full-Stack Developer with a passion for crafting efficient, scal
 
 ### 🚀 Skills & Technologies
 
-  * Languages: Java, C#, SQL, HTML, CSS, JavaScript, TypeScript
+  * Languages: Java, C#,Python, SQL, HTML, CSS, JavaScript, TypeScript
   
   * Frameworks: Spring Boot, Hibernate, Angular
   
